@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7928ca&height=200&section=header&text=Merouane%20Benatia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity%20Expert&descAlignY=60&descAlign=50&descSize=18&descColor=a0e9ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7928ca&height=220&section=header&text=Benatia%20Merouane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity%20Expert&descAlignY=58&descAlign=50&descSize=20&descColor=a0e9ff" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 ```python
 class MerouaneBenatia:
     def __init__(self):
-        self.name        = "Merouane Benatia"
+        self.name        = "Benatia Merouane"
         self.username    = "zedmort"
         self.location    = "Algeria 🇩🇿"
         self.role        = "Full-Stack Developer & AI Engineer"
@@ -271,9 +271,9 @@ SQL              █░░░░░░░░░░░░░░░░░░░░
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zedmort)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merouane-benatia)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merouane.benatia@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://zedmort.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merouane-benatia-00376a283/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/merouane_in.4k/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213555190363)
 
 </div>
 
@@ -284,5 +284,5 @@ SQL              █░░░░░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <i>⚡ "Code is poetry written in logic" — Merouane Benatia</i>
+  <i>⚡ "Code is poetry written in logic" — Benatia Merouane</i>
 </div>
