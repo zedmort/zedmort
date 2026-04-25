@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+%26+AI+Developer;💼+ERP+Systems+Architect;📱+Mobile+%7C+Web+%7C+Desktop+Engineer;🔐+Cybersecurity+%26+Network+Specialist;🤖+AI+%26+Machine+Learning+Engineer;⚡+Turning+Ideas+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+%26+AI+Developer;💼+ERP+Systems+Architect;📱+Mobile+%7C+Web+%7C+Desktop+Engineer;🔐+Cybersecurity+%26+Network+Specialist;🤖+AI+%26+Machine+Learning+Engineer;🥇+National+AI+Champion+%F0%9F%87%A9%F0%9F%87%BF;⚡+Turning+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,6 +37,10 @@ class MerouaneBenatia:
             "Database Architecture",
             "Cloud Infrastructure",
             "DevOps & CI/CD",
+        ]
+        self.awards      = [
+            "🥇 1st Place — National AI Competition, Algeria",
+            "🥈 2nd Place — National Programming Competition, Laghouat",
         ]
         self.currently   = "Building next-gen AI-powered applications 🤖"
         self.fun_fact    = "I debug with coffee ☕ and ship with passion 🔥"
@@ -258,6 +262,24 @@ SQL              █░░░░░░░░░░░░░░░░░░░░
 
 ---
 
+## 🏅 Awards & Competitions
+
+<div align="center">
+
+| 🏆 | Competition | Result | Scope |
+|:---:|-------------|:------:|:-----:|
+| 🥇 | **National AI Competition** | **1st Place** | 🇩🇿 Algeria |
+| 🥈 | **National Programming Competition — Laghouat** | **2nd Place** | 🇩🇿 Algeria |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🥇%20National%20AI%20Champion-Algeria-FFD700?style=for-the-badge&labelColor=0d1117" alt="AI Champion"/>
+  <img src="https://img.shields.io/badge/🥈%20National%20Programming%20-%202nd%20Place-C0C0C0?style=for-the-badge&labelColor=0d1117" alt="Programming 2nd"/>
+</div>
+
+---
+
 ## 💡 Dev Quote of the Day
 
 <div align="center">
@@ -274,6 +296,7 @@ SQL              █░░░░░░░░░░░░░░░░░░░░
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merouane-benatia-00376a283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/merouane_in.4k/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213555190363)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://zedmort.dev)
 
 </div>
 
